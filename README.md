@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 12 |
+| 10 | 13 |
 
 ---
 
@@ -22,7 +22,8 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (4)
-- [math](#math) (3)
+- [math](#math) (4)
+- [number theory](#number-theory) (1)
 - [strings](#strings) (1)
 
 ---
@@ -106,8 +107,15 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2275H | [A Problem to Warm Up the Eyebrows](https://codeforces.com/contest/2275/problem/H) | 2400 | [C++20 (GCC 13-64)](https://github.com/solvewithalish/Codeforces-Solutions/blob/HEAD/2275/H%20-%20A%20Problem%20to%20Warm%20Up%20the%20Eyebrows/solution.cpp) |
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/solvewithalish/Codeforces-Solutions/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 | 2276F | [Permutation Coloring Game](https://codeforces.com/contest/2276/problem/F) | 2400 | [C++20 (GCC 13-64)](https://github.com/solvewithalish/Codeforces-Solutions/blob/HEAD/2276/F%20-%20Permutation%20Coloring%20Game/solution.cpp) |
 | 2276G | [Elimination of Players](https://codeforces.com/contest/2276/problem/G) | 2100 | [C++20 (GCC 13-64)](https://github.com/solvewithalish/Codeforces-Solutions/blob/HEAD/2276/G%20-%20Elimination%20of%20Players/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/solvewithalish/Codeforces-Solutions/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ### strings
 
