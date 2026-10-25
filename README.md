@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 13 |
+| 11 | 13 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [games](#games) (1)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (4)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
@@ -90,6 +90,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2274B | [Prefix](https://codeforces.com/contest/2274/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/solvewithalish/Codeforces-Solutions/blob/HEAD/2274/B%20-%20Prefix/solution.cpp) |
 | 2276E | [Good Substrings](https://codeforces.com/contest/2276/problem/E) | 1800 | [C++20 (GCC 13-64)](https://github.com/solvewithalish/Codeforces-Solutions/blob/HEAD/2276/E%20-%20Good%20Substrings/solution.cpp) |
 | 2276F | [Permutation Coloring Game](https://codeforces.com/contest/2276/problem/F) | 2400 | [C++20 (GCC 13-64)](https://github.com/solvewithalish/Codeforces-Solutions/blob/HEAD/2276/F%20-%20Permutation%20Coloring%20Game/solution.cpp) |
 
